@@ -2,7 +2,7 @@
 
 Download the files and import in IDE as Maven project:
 
-The follwoing are the URLs to run the project:
+The following are the URLs to run the project:
 
 Application URLs:
 
